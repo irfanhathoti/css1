@@ -1,0 +1,48 @@
+.heading
+{
+    color: red;
+font-weight: bold;
+}
+.heading1
+{
+    color: red;
+font-style: italic;
+}
+ol
+{
+    color: brown;
+}
+.link
+{
+    text-decoration:line-through;
+
+}
+.b
+{
+    background-color: yellow;
+}
+.dod
+{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: inherit;
+}
+.heading2
+{
+color: red;
+font-style: oblique;
+font-size: medium;
+}
+ul
+{
+    letter-spacing: 4px;
+    color: darkred;
+}
+.a 
+{
+    text-decoration: none;
+}
+p
+{
+    color: darkred;
+}
