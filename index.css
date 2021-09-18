@@ -20,6 +20,7 @@ ol
 .b
 {
     background-color: yellow;
+    color: darkred;
 }
 .dod
 {
@@ -30,8 +31,9 @@ ol
 .heading2
 {
 color: red;
-font-style: oblique;
-font-size: medium;
+font-style: italic;
+font-size: larger;
+font-weight: bolder;
 }
 ul
 {
